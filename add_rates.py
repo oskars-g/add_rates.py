@@ -19,7 +19,7 @@ import psspy
 import pssexcel
 psspy.psseinit(7000)
 
-RATE_DATAFILE = './rate_list.csv' #csv file
+RATE_DATAFILE = './rate_list.csv'
 CASE = './D040723_10_LVLTV2_2.sav'
 
 data = list(csv.reader(open(RATE_DATAFILE)))  # read csv
