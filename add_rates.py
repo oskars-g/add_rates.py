@@ -1,6 +1,6 @@
 ﻿#-------------------------------------------------------------------------------
 # Name:        Add RATES to branch
-# Version:     0.3
+# Version:     0.4
 # Purpose:
 #
 # Author:      oskars.g
